@@ -1,2 +1,4 @@
 # my-datascience-project
-It describe my  works and skill and analytical ability.
+Exploring my data science portfolio
+
+#Project 1: Heart attack analysis & prediction: Project Overview
