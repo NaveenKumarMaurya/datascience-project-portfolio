@@ -1,7 +1,7 @@
 # my-datascience-end to end Project portfolio
 Exploring my data science portfolio
 
-## [Project 1: Heart attack  prediction: Overview](https://github.com/NaveenKumarMaurya/my-datascience-project/blob/main/Heart%20attack%20analysis%20%26%20Prediction.ipynb)
+## [Project 1: Heart attack  prediction: Overview](https://github.com/NaveenKumarMaurya/HeartAttackPrediction#heartattackprediction)
 This is a simple classification problem trained on python scikit-learn library.The classification model takes 
 the independent variable eg. age,sex,cholestrol,blood pressure etc.,from heart attack data set to predict 
 whether the person will get heart attack or not.
