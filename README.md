@@ -15,4 +15,5 @@ We also use Pipeline method to apply 10 classifiction algorithms(1.logistic Regr
 to get the best accuracy which i have got in KNN=82.4%.Then i also apply for loop to get the best random
 state producing good accuracy and then we have got accuracy of 90% with choosing appropriate n_nieghour parameter which is n_neighour=6.
 After plotting AUC-ROC curve we have got the value AUC=93% which is a good value for a model.
+
 ![](https://github.com/NaveenKumarMaurya/my-datascience-project/blob/main/heart-attack-silent%20(1).jpg)
