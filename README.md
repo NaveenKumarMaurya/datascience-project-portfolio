@@ -18,7 +18,7 @@ After plotting AUC-ROC curve we have got the value AUC=93% which is a good value
 
 ![](https://github.com/NaveenKumarMaurya/my-datascience-project/blob/main/heart-attack-silent%20(1).jpg)
 
-## Project 2: Car Price Prediction : Overview
+## [Project 2: Car Price Prediction : Overview](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/car%20price%20prediction.ipynb)
 This is a regression based ML plroject build  on python scikit-learn library.The aim of this project is to predict the price of the car on the basis of its given independent feature eg. model, engine feul type, engine HP, engine cylinder, transmission type, driven_Wheels, number of door, market category, vehicle size, vehicle style,
 highway MPG, city mpg, Popularity.
 
