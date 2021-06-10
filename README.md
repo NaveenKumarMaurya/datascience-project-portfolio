@@ -27,9 +27,6 @@ After analysing the features and correlation we found 'Engine HP' is the most im
 ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/car%20images.jpg) ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/car%20feature%20importance.png)
 
 
-
-
-
 ## [Project 3: Concrete Compressive Strength : Overview](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/concrete-data-eda-model-acc-97.ipynb)
 This is a Regression problem trained on python scikit-learn libarary.The data is related to civil engineering/Architecture where compressive strengh of material being used is import factor to determone the stability, sustainibility of building/bridge/construction.The target aim of the model is to predict the compressive strength of concrete on the basis of independent  variable -cement,Blast Furnace Slag,Fly Ash,Water,Superplasticizer,Coarse Aggregate,Fine Aggregate.
 
@@ -37,6 +34,6 @@ we used 12 regression algorithms to build our ML model where we have got the bes
 
 ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/concrete%20%20image.jpg)
 
-
+## Project 4: Credit card customer segmentation:
 
 
