@@ -47,3 +47,12 @@ daeth, rate of death due to covid-19 in different countries with respect to time
 We also found that Mexico has the highest count and rate of death.For more detail about the dataset please click on the image below
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/covid-19%20death%20map.png)](https://www.kaggle.com/dhruvildave/covid19-deaths-dataset)
+
+## Bank term deposit subscription:
+This is a imbalance classification based ML project where we are given a direct marketing campaign (phone call) dataset obtained from a bank. The data contains 3090 rows and each row refers to an individual customer record. The dataset contains 15 input attributes and one target or class label attribute (subscribed to term deposit).
+
+We used 8 classification algorithms to build our model on sklearn. Smote technique has been used to tackle the imbalance of the data using imblearn package.
+We got the best accuracy with Decision tree model accuracy =92% and f1-score =.93, after analysing the correlation and feature importance we got the'duration' is the most important factor to decide whether customer takes subscription or not.
+
+
+
