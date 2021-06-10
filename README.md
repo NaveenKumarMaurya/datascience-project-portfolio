@@ -1,4 +1,4 @@
-# my-datascience-end to end Project portfolio
+# datascience Project portfolio
 Exploring my data science portfolio
 
 ## [Project 1: Heart attack  prediction: Overview](https://github.com/NaveenKumarMaurya/HeartAttackPrediction#heartattackprediction)
