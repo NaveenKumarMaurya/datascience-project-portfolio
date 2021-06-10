@@ -37,4 +37,4 @@ we used 12 regression algorithms to build our ML model where we have got the bes
 this is a unsupervised machine learning problem where diifferent segment or group of customer has to be made using K-mean clusterring and hierarchical clustering algorithm .
 After taht we have to identify our target customer who has more potential to give profit.
 
-![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Credit-cards%20images.jpg) 
+![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Credit-cards%20images.jpg) ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/segmentation%20image.png)
