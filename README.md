@@ -54,5 +54,5 @@ This is a imbalance classification based ML project where we are given a direct 
 We used 8 classification algorithms to build our model on sklearn. Smote technique has been used to tackle the imbalance of the data using imblearn package.
 We got the best accuracy with Decision tree model accuracy =92% and f1-score =.93, after analysing the correlation and feature importance we got the'duration' is the most important factor to decide whether customer takes subscription or not.
 
-
+![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/bank-term-deposit.jpg)
 
