@@ -24,7 +24,7 @@ highway MPG, city mpg, Popularity.
 
 We applied 11 ML regression algorithms to build our model, then we get best accuracy in Extra tree regressor which is 97%.
 After analysing the features and correlation we found 'Engine HP' is the most important factor for the price of the car.
-![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/car%20images.jpg)
+![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/car%20images.jpg) ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/car%20feature%20importance.png)
 
 
 
