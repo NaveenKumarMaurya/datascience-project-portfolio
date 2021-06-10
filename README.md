@@ -45,3 +45,5 @@ You can visit  the data by clicking on the image below.
 This is visual analysis based project where we have the data set of 45 countries. Using plotlly chroropleth, seaborn, matplotlib we made different plot to analyse the count of 
 daeth, rate of death due to covid-19 in different countries with respect to time.
 We also found that Mexico has the highest count and rate of death.
+
+![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/covid-19%20death%20map.png)
