@@ -44,6 +44,6 @@ You can visit  the data by clicking on the image below.
 ## [Project 5: Covid-19 death dataset:](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/covid-19-death-eda-visualisation.ipynb)
 This is visual analysis based project where we have the data set of 45 countries. Using plotlly chroropleth, seaborn, matplotlib we made different plot to analyse the count of 
 daeth, rate of death due to covid-19 in different countries with respect to time.
-We also found that Mexico has the highest count and rate of death.
+We also found that Mexico has the highest count and rate of death.For more detail about the dataset please click on the image below
 
-![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/covid-19%20death%20map.png)
+[![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/covid-19%20death%20map.png)](https://www.kaggle.com/dhruvildave/covid19-deaths-dataset)
