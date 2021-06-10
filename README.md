@@ -34,6 +34,6 @@ we used 12 regression algorithms to build our ML model where we have got the bes
 
 ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/concrete%20%20image.jpg)
 
-## Project 4: Credit card customer segmentation:
+## [Project 4: Credit card customer segmentation:](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Credit%20card%20customer%20segmentation.ipynb)
 this is a unsupervised machine learning problem where diifferent segment or group of customer has to be made using K-mean clusterring and hierarchical clustering algorithm .
 After taht we have to identify our target customer who has more potential to give profit
