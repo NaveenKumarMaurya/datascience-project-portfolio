@@ -69,6 +69,6 @@ We build the classification model to predict whether the customer will churn or 
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/telecom%20churn%20image.jpg)](https://www.kaggle.com/radmirzosimov/telecom-users-dataset)
 
-## Project 9: House Price Prediction
+## [Project 9: House Price Prediction](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/House%20Price%20Prediction.ipynb)
 This is a linear regression based problem where the price of the house is predicted on the basis of its feature eg. no of bedroom, sqft area,floor waterfront,condition, age etc.
 we also find the main factor which determine  the price of house.
