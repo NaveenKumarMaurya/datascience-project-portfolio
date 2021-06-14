@@ -67,3 +67,4 @@ you can get the dataset from kaggle by clicking on below image
 predicting the churn, we can react in time and try to keep the client who wants to leave. Based on the data about the services that the client uses, we can make him a special offer, trying to change his decision to leave the operator. This will make the task of retention easier to implement than the task of attracting new users, about which we do not know anything yet.
 We build the classification model to predict whether the customer will churn or nor.Here we have focused on recall rather than accuracy and we get recall upto 80%
 
+![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/telecom%20churn%20image.jpg)
