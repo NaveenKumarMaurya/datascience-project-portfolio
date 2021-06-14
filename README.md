@@ -68,3 +68,7 @@ predicting the churn, we can react in time and try to keep the client who wants 
 We build the classification model to predict whether the customer will churn or nor.Here we have focused on recall rather than accuracy and we get recall upto 80%
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/telecom%20churn%20image.jpg)](https://www.kaggle.com/radmirzosimov/telecom-users-dataset)
+
+## Project 9: House Price Prediction
+This is a linear regression based problem where the price of the house is predicted on the basis of its feature eg. no of bedroom, sqft area,floor waterfront,condition, age etc.
+we also find the main factor which determine  the price of house.
