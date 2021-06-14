@@ -62,7 +62,7 @@ you can get the dataset from kaggle by clicking on below image
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/bank%20marking%20image.jpg)](https://www.kaggle.com/dhirajnirne/bank-marketing)
 
-## Project 8: Telecom User Churn:
+## [Project 8: Telecom User Churn:](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Telecom%20User%20Churn%20.ipynb)
 
 predicting the churn, we can react in time and try to keep the client who wants to leave. Based on the data about the services that the client uses, we can make him a special offer, trying to change his decision to leave the operator. This will make the task of retention easier to implement than the task of attracting new users, about which we do not know anything yet.
 We build the classification model to predict whether the customer will churn or nor.Here we have focused on recall rather than accuracy
