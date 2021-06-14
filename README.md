@@ -56,5 +56,5 @@ We got the best accuracy with Decision tree model accuracy =92% and f1-score =.9
 
 ![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/bank-term-deposit.jpg)
 
-## Project 7: Bank Marketing:
+## [Project 7: Bank Marketing:](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Bank%20Marketing.ipynb)
 Banking dataset that helps running a campaign. how do banks select target customers so that chances of selling their product maximize, this will help you understand these things.The targeted customer has to be predicted on the basis of some features eg.age,education,marital status,salary,housing etc. We have build a classification model to classify the targeted customer.
