@@ -48,7 +48,7 @@ We also found that Mexico has the highest count and rate of death.For more detai
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/covid-19%20death%20map.png)](https://www.kaggle.com/dhruvildave/covid19-deaths-dataset)
 
-## [Bank term deposit subscription:](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Bank%20term%20deposit%20subscription.ipynb)
+## [Project 6:Bank term deposit subscription:](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/Bank%20term%20deposit%20subscription.ipynb)
 This is a imbalance classification based ML project where we are given a direct marketing campaign (phone call) dataset obtained from a bank. The data contains 3090 rows and each row refers to an individual customer record. The dataset contains 15 input attributes and one target or class label attribute (subscribed to term deposit).
 
 We used 8 classification algorithms to build our model on sklearn. Smote technique has been used to tackle the imbalance of the data using [imblearn](https://pypi.org/project/imblearn/) package.
