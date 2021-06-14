@@ -73,3 +73,6 @@ You can find the dataset on kaggle by clicking on below image.
 ## [Project 9: House Price Prediction](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/House%20Price%20Prediction.ipynb)
 This is a linear regression based problem where the price of the house is predicted on the basis of its feature eg. no of bedroom, sqft area,floor waterfront,condition, age etc.
 we also find the main factor which determine  the price of house.
+You can find the dataset on kaggle by clicking on below image
+
+![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/house.jpg)
