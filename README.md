@@ -81,3 +81,4 @@ You can find the dataset on kaggle by clicking on below image
 •	Using Excel , the output of the topics modelling which has been applied on the data in python is converted into csv format and then imported into MySql.
 •	Transformed the data using DAX calculation in Power BI  and prepared the dashboard to extract the business insights in the data.
 
+## [MALL ENTRY DATA](
