@@ -77,7 +77,7 @@ You can find the dataset on kaggle by clicking on below image
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/house.jpg)](https://www.kaggle.com/shree1992/housedata)
 
-## [Project 10: Australia Car Insurance Data](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/commit/ad29649773e8a2f62209871096ea3cd00f2005ca)
+## [ Australia Car Insurance Data](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/commit/ad29649773e8a2f62209871096ea3cd00f2005ca)
 •	Using Excel , the output of the topics modelling which has been applied on the data in python is converted into csv format and then imported into MySql.
 •	Transformed the data using DAX calculation in Power BI  and prepared the dashboard to extract the business insights in the data.
 
