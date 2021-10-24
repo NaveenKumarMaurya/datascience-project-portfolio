@@ -77,4 +77,4 @@ You can find the dataset on kaggle by clicking on below image
 
 [![](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/house.jpg)](https://www.kaggle.com/shree1992/housedata)
 
-## [Project 10: Australia Car Insurance Data] 
+## [Project 10: Australia Car Insurance Data](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/blob/main/CAR%20INSURANCE%20COMPLETE%20DASHBOARD.pdf)
