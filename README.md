@@ -81,4 +81,6 @@ You can find the dataset on kaggle by clicking on below image
 •	Using Excel , the output of the topics modelling which has been applied on the data in python is converted into csv format and then imported into MySql.
 •	Transformed the data using DAX calculation in Power BI  and prepared the dashboard to extract the business insights in the data.
 
-## [MALL ENTRY DATA](
+## [MALL ENTRY DATA](https://github.com/NaveenKumarMaurya/datascience-project-portfolio/commit/5d3722348422b9a8e22cc63f2d2975393dbc46c1)
+•	I was assisted in developing Data warehouse using MY SQL to convert unstructured data into Fact and Dimension table for more informative and accessible data.
+•	Prepared BI dashboard using Power BI for day wise, month wise ,year wise , hour wise mall entry analysis report
